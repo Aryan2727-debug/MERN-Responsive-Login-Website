@@ -7,3 +7,7 @@
 5) It contains a Home Page, Contact Page, About Page and Services Page.
 6) The Contact Page has a form which is connected to a MongoDB Database and all the inputs of the form are stored in the Database on MongoDB Compass.
 
+## To start the App:-
+
+## cd src
+## node app.js
