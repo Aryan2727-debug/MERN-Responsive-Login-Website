@@ -1,4 +1,4 @@
-# MERN-Login-Website
+# MERN-Responsive-Login-Website
 
 <img width="850" height="450" alt="image" src="https://user-images.githubusercontent.com/78311368/209445048-ef3301ed-16c2-4ce4-bb7a-f5ae414337ad.PNG">
 <br>
