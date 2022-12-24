@@ -1,5 +1,7 @@
 # MERN-Login-Website
 
+<img width="850" height="450" alt="image" src="https://user-images.githubusercontent.com/78311368/209445048-ef3301ed-16c2-4ce4-bb7a-f5ae414337ad.PNG">
+
 1) This is a completely Responsive and Dynamic MERN Stack Website.
 2) It is created with HTML, CSS, Javascript, NodeJS, ExpressJS, MongoDB and Handlebars.
 3) The dependencies and packages used are - ExpressJS, MongooseJS, Bootstrap4, Jquery, Validator, NPM, Handlebars, Partials and Templates.
