@@ -1,0 +1,21 @@
+{
+  "name": "dynamic_mern_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "aryandev",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "jquery": "^3.6.3",
+    "mongoose": "^6.8.1",
+    "validator": "^13.7.0"
+  }
+}
